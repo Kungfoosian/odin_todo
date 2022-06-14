@@ -1,0 +1,1 @@
+(()=>{const t=document.createElement("div");t.setAttribute("id","root"),document.body.appendChild(t)})();
